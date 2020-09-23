@@ -9,8 +9,8 @@ from flask import Flask,request, render_template, session, redirect
 
 # In[8]:
 import os
-print(os.getcwd())
-os.chdir(r'\Users\preeti.sitaram.verma\Documents\python\PY')
+#print(os.getcwd())
+#os.chdir(r'\Users\preeti.sitaram.verma\Documents\python\PY')
 
 
 
